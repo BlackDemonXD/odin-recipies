@@ -1,0 +1,95 @@
+* {
+    background-color: seashell;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+}
+
+p {
+    font-style: italic;
+    text-align: center;
+}
+
+.Recipes {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.Pesto,
+.Grilled,
+.Hummus {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+.button {
+    background-color: green;
+    border: none;
+    color: ivory;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.image {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 20%;
+}
+
+.Pesto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+
+}
+
+ol,
+li,
+ul,
+li {
+    text-align: justify;
+    margin: auto;
+    width: 50%;
+}
+
+#Pesto-Description {
+    display: block;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.grilled {
+    width: 500px;
+    height: auto;
+}
+.hummus {
+    width: 500px;
+    height: 400px;
+}
+
+.code {
+    background-color: grey;
+    padding: 10px 24px;
+    color: white;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    bottom: 10px;
+    border: 3px;
+}
